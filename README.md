@@ -24,9 +24,9 @@ This project documents my **custom PC build**, covering **hardware selection, BI
 
 <h2>🚀 Results & Benchmark Scores</h2>
 
-📊 **CPU Benchmark (Cinebench R23):** TBD (Update after benchmarking)  
-🎮 **GPU Benchmark (3DMark Time Spy):** TBD (Update after benchmarking)  
-⚡ **Storage Speed (CrystalDiskMark):** TBD (Update after benchmarking)  
+📊 **CPU Benchmark (Cinebench R23):** Rendering: 32,651  Rendering (Single Core): 2,189 
+
+🎮 **GPU Benchmark (3DMark Time Spy):** 23,915  
 
 <h2>📂 Build Documentation & Images</h2>
 
