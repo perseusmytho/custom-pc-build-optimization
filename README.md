@@ -20,7 +20,7 @@ This project documents my **custom PC build**, covering **hardware selection, BI
 - **BIOS Configuration** – Enabled **XMP for RAM overclocking**, adjusted fan curves, and optimized boot priorities.  
 - **Driver Optimization** – Installed the latest **chipset, GPU, and storage drivers** for maximum stability.  
 - **Cooling & Airflow** – Optimized **fan placement and thermal paste application** to reduce CPU/GPU temperatures.  
-- **Performance Benchmarks** – Ran **Cinebench, 3DMark, and CrystalDiskMark** to validate performance gains.  
+- **Performance Benchmarks** – Ran **Cinebench and 3DMark** to validate performance gains.  
 
 <h2>🚀 Results & Benchmark Scores</h2>
 
@@ -34,13 +34,19 @@ This project documents my **custom PC build**, covering **hardware selection, BI
 🖼 **Photos & Screenshots**:
 - `bios_configuration.png` – BIOS settings for CPU & RAM tuning  
 - `benchmark_results.png` – Performance test results  
-- `cooling_setup.png` – Airflow and thermal management  
+- `cooling_setup.png` – Airflow and thermal management
+
+<h2>🛠 Skills Gained</h2>
+
+✔ **Hardware Assembly & Troubleshooting** – Installed and configured PC components, identified and resolved compatibility issues.  
+✔ **BIOS & Firmware Configuration** – Optimized settings for **CPU, RAM, and storage performance**.   
+✔ **Driver & OS Optimization** – Installed and configured **chipset, GPU, and storage drivers** for stability and speed.  
+✔ **Benchmarking & Performance Analysis** – Used **Cinebench and 3DMark** to measure and analyze system performance.    
 
 <h2>✅ Key Takeaways & Best Practices</h2>
 
 🔹 **BIOS tuning** enhances stability, reduces boot times, and improves performance.  
 🔹 **Cooling solutions** like Noctua air coolers help maintain optimal thermals under load.  
 🔹 **Regular driver updates** maximize system responsiveness and gaming performance.  
-🔹 **Benchmarking** validates system performance and identifies bottlenecks.  
-
+🔹 **Benchmarking** validates system performance and identifies bottlenecks.
 ---
