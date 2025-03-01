@@ -49,4 +49,5 @@ This project documents my **custom PC build**, covering **hardware selection, BI
 🔹 **Cooling solutions** like Noctua air coolers help maintain optimal thermals under load.  
 🔹 **Regular driver updates** maximize system responsiveness and gaming performance.  
 🔹 **Benchmarking** validates system performance and identifies bottlenecks.
+
 ---
