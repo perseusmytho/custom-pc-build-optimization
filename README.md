@@ -28,14 +28,6 @@ This project documents my **custom PC build**, covering **hardware selection, BI
 
 🎮 **GPU Benchmark (3DMark Time Spy):** 23,915  
 
-<h2>📂 Build Documentation & Images</h2>
-
-📄 **[Full Build Guide & Optimization Steps](./custom_pc_build_documentation.pdf)**  
-🖼 **Photos & Screenshots**:
-- `bios_configuration.png` – BIOS settings for CPU & RAM tuning  
-- `benchmark_results.png` – Performance test results  
-- `cooling_setup.png` – Airflow and thermal management
-
 <h2>🛠 Skills Gained</h2>
 
 ✔ **Hardware Assembly & Troubleshooting** – Installed and configured PC components, identified and resolved compatibility issues.  
